@@ -13,7 +13,7 @@ for a given task.
 ## About Project
 *****************
 
-It's an sustainable demo project we wrote in a competition. Its main purpose is
+It's a sustainable demo project we wrote in a competition. Its main purpose is
 everyone who has vehicle can transport someone else's loads to anywhere by 
 paying certain amount of money calculated by load's weight in Kg multiplied by a seed money.
 
