@@ -20,7 +20,6 @@ paying certain amount of money calculated by load's weight in Kg multiplied by a
 *****************
 ## Developers
 *****************
-- Ulas Can Nacaksiz - Software/Web Developer - [Github](https://github.com/ulascannacaksiz)
 - Umut Dag - Web Developer - [Github](https://github.com/umutdag1)
 
 *******************
